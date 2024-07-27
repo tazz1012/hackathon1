@@ -3,7 +3,8 @@ author : tazz
 
 
 
-Github link : [https//github.com/Naya/hackathon1](https://github.com/tazz1012/hackathon1.git)
+Github link : (https://github.com/tazz1012/hackathon1.git)
+
 
 
 
