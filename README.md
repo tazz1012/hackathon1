@@ -1,17 +1,15 @@
 title : FAKE NEWS DETECTOR
 author : tazz
 
-
-
 Github link : (https://github.com/tazz1012/hackathon1.git)
 
 
+# Sample data for demonstration
+# Create a DataFrame
+# Save the DataFrame to a CSV file
+# Display the dataset
+# Load dataset
+# Display first few rows of the dataframe
+# Check for any null values and handle them if necessary
 
-
-
-example of fake news :
-Steam Inhalation as a COVID-19 Treatment:
-Posts on social media claimed that inhaling steam helped coronavirus patients recover quickly.
-However, there’s no evidence that steam inhalation works as a treatment for COVID-19.
-Attempting to inhale steam at high temperatures can be extremely dangerous and risk burns.
 
